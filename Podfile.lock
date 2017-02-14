@@ -1,0 +1,16 @@
+PODS:
+  - SwiftToolKit (0.1.0)
+
+DEPENDENCIES:
+  - SwiftToolKit (from `.`)
+
+EXTERNAL SOURCES:
+  SwiftToolKit:
+    :path: .
+
+SPEC CHECKSUMS:
+  SwiftToolKit: b2c00639a37d2a6ef9912bc2029448dddfbe75ea
+
+PODFILE CHECKSUM: 842129b6265d366e16ea82f9025eafa6323ebde8
+
+COCOAPODS: 1.2.0
